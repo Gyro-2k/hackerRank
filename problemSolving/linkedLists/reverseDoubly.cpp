@@ -1,5 +1,5 @@
 //solution to revere a doubly link list problem
-
+ 
 DoublyLinkedListNode* reverse(DoublyLinkedListNode* head) {
     DoublyLinkedListNode *past=NULL,*present = head, *future;
     while(present!=NULL){
