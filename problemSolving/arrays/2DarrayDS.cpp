@@ -1,4 +1,5 @@
 //hourglass sum
+// B)   B:|   
 
 int hourglassSum(vector<vector<int>> arr) {
     int maxSum=INT_MIN,sum=0;
