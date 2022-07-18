@@ -1,5 +1,6 @@
 //check if a string has balanced brackets
 
+//  B)  B:|
 string isBalanced(string s) {
     string ans="YES";
     stack<char> stkk;
