@@ -1,5 +1,6 @@
 //check if two linked lists are idientical
 
+//  B)  B:|
 bool compare_lists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
     SinglyLinkedListNode *trav1=head1,*trav2=head2;
     while(trav1->next!=NULL || trav2->next!=NULL){
