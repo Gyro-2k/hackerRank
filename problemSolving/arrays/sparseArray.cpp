@@ -1,5 +1,6 @@
 //find idientical input and query strings
 
+//  B)  B:|
 vector<int> matchingStrings(vector<string> strings, vector<string> queries) {
     vector<int> findQueries;
     for(int z=0;z<queries.size();z++){
